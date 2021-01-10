@@ -4,14 +4,14 @@
 ### About
   A Program that has multiple fun to play games.
   Developed as a Hackathon Project for the **SDS Labs**(IIT Roorkee) Hackathon event **Syntax Error**.
-  Currently features the following games:
-    * Pac-Man
-    * Sudoku
-    * Tanks
-    * Tank Maze
-    * TicTacToe (Angry Birds edition)
-    * Dots and Boxes
-    * Snakes
+  Currently features the following games.
+      * Pac-Man
+      * Sudoku
+      * Tanks
+      * Tank Maze
+      * TicTacToe (Angry Birds edition)
+      * Dots and Boxes
+      * Snakes
       
 ### Team Members
   1. Harsh Verma (Team Leader)
