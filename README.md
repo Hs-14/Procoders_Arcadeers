@@ -24,13 +24,13 @@
   2. Add python and pip to your system path(if they are not already).
         The provided link demonstrates how to add python to the path: https://datatofish.com/add-python-to-windows-path/ - automatic!
   3. Install the PyGame Library onto your system.
-      -You can download the wheel file from the website: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+      * You can download the wheel file from the website: https://www.lfd.uci.edu/~gohlke/pythonlibs/
         and use the following command to add the pygame library to python:
         ```shell
         pip install pygame‑2.0.1‑cp39‑cp39‑win_amd64.whl
         ```
         The name of the wheel file may vary with the version of the python you have and whether your system is 32 bit or 64 bit.
-      -Or you can simply use the following command
+      * Or you can simply use the following command
         ```shell
         pip install pygame
         ```
