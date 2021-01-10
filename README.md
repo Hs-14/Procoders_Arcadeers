@@ -3,7 +3,7 @@
 
 ### About
   A Program that has multiple fun to play games.
-  Developed as a Hackathon Project for the SDS Labs Hackathon event Syntax Error.
+  Developed as a Hackathon Project for the **SDS Labs**(IIT Roorkee) Hackathon event **Syntax Error**.
   Currently features the following games:
     * Pac-Man
     * Sudoku
@@ -26,14 +26,14 @@
   3. Install the PyGame Library onto your system.
       -You can download the wheel file from the website: https://www.lfd.uci.edu/~gohlke/pythonlibs/
         and use the following command to add the pygame library to python:
-        ''' shell
+        ```shell
         pip install pygame‑2.0.1‑cp39‑cp39‑win_amd64.whl
-        ...
+        ```
         The name of the wheel file may vary with the version of the python you have and whether your system is 32 bit or 64 bit.
       -Or you can simply use the following command
-        ''' shell
+        ```shell
         pip install pygame
-        '''
+        ```
   4. After the prerequisites are complete we are now ready to run the program.
     Run the \_main.py and you are ready to have some great time.
         
